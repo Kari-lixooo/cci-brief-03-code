@@ -1,0 +1,18 @@
+* {
+  margin: 100;
+  padding: 100;
+  box-sizing: border-box;
+}
+.heading1 {
+  color: rgb(183, 246, 231);
+  font-size: 30pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f0f0f0;
+}
